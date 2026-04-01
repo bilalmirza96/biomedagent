@@ -1,0 +1,24 @@
+{
+  "name": "biomedagent",
+  "version": "1.0.0",
+  "description": "Autonomous biomedical data analysis using a multi-agent pipeline inspired by BioMedAgent (Nature Biomedical Engineering, 2026). Handles omics, precision medicine, machine learning, statistics, and visualization from natural language instructions.",
+  "author": {
+    "name": "Muhammad Bilal Mirza",
+    "url": "https://github.com/bilalmirza96"
+  },
+  "keywords": [
+    "biomedical",
+    "bioinformatics",
+    "omics",
+    "machine-learning",
+    "statistics",
+    "data-analysis",
+    "genomics",
+    "precision-medicine"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bilalmirza96/biomedagent"
+  }
+}
