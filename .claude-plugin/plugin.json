@@ -17,8 +17,5 @@
     "precision-medicine"
   ],
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bilalmirza96/biomedagent"
-  }
+  "repository": "https://github.com/bilalmirza96/biomedagent"
 }
