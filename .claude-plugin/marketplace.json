@@ -1,0 +1,20 @@
+{
+  "name": "biomedagent",
+  "description": "Autonomous biomedical data analysis using a multi-agent pipeline",
+  "owner": {
+    "name": "Muhammad Bilal Mirza"
+  },
+  "plugins": [
+    {
+      "name": "biomedagent",
+      "description": "Autonomous biomedical data analysis using a multi-agent pipeline inspired by BioMedAgent (Nature Biomedical Engineering, 2026). Handles omics, precision medicine, machine learning, statistics, and visualization from natural language instructions.",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "research",
+      "tags": ["biomedical", "bioinformatics", "omics", "machine-learning", "statistics", "data-analysis", "genomics", "precision-medicine"],
+      "author": {
+        "name": "Muhammad Bilal Mirza"
+      }
+    }
+  ]
+}
